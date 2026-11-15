@@ -199,6 +199,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [MPV](https://mpv.io/)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 - [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
+- [Yaptake](https://yaptake.com/) - Offline video editor that cuts by transcript and adds captions.
 
 ## Write
 
