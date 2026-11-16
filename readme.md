@@ -29,6 +29,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
+- [Headphone Control](https://kulaklikkontrol.github.io/) - Native menu bar controller for Sony Bluetooth headphones including battery, ANC, multipoint, and EQ (only WH-1000XM5 tested on hardware; other models untested and compatibility unverified).
 - [OpenQuack](https://github.com/larryxiao/openquack) - Privacy-first local voice dictation menu bar app powered by WhisperKit.
 
 ## Code
