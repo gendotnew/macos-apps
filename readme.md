@@ -143,6 +143,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting.
 - [PDF Expert](https://pdfexpert.com/)
 - [Reeder 3](http://reederapp.com/mac/)
+- [Sponge](https://sponge.computer/mac) - Read-later library that saves links from the Share menu, menu bar or a shortcut.
 
 ## Terminal emulators
 
