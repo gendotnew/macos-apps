@@ -89,6 +89,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 ## Games
 
 - [MineCraft](https://minecraft.net/en-us/)
+- [Notch Hero](https://notchhero.com) - Idle RPG that lives in the MacBook notch.
 - [Stockfish](https://stockfishchess.org/)
 
 ## Health
