@@ -171,6 +171,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Daisy disk](https://daisydiskapp.com/)
 - [Dropzone 4](https://aptonic.com/)
 - [Feather](https://github.com/lukakerr/feather) - Minimal, lightweight MacOS desktop application to check for regular expression pattern matches.
+- [Gander](https://trygander.app) - Visual Finder alternative that shows every file as a big thumbnail, finds files from plain-English searches like "pdfs from last week" and clears duplicates.
 - [Gitify](https://github.com/manosim/gitify)
 - [Hammerspoon](http://www.hammerspoon.org/)
 - [Hummingbird](https://hummingbirdapp.site) - Easily move and resize windows without mouse clicks, from anywhere within a window.
