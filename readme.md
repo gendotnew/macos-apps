@@ -198,6 +198,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [IINA](https://github.com/lhc70000/iina)
 - [MPV](https://mpv.io/)
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
+- [Sisyphos](https://www.getsisyphos.com/?ref=macos-apps) - Video culling app that finds the best moments in raw footage and explains every pick.
 - [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
 
 ## Write
