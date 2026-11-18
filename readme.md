@@ -191,6 +191,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions.
 - [Unclutter](https://unclutterapp.com/)
 - [Mouse Jiggler for Mac](https://mousejigglermac.com) - Prevent Mac from sleep with Mac Mouse Mover.
+- [Shake It On](https://shakeiton.app/?ref=awesome-macos-apps) - Menu bar app that keeps your Mac awake with natural mouse movement and pauses itself for calls, Focus and battery.
 - [ZoomShot](https://apps.apple.com/app/zoomshot-live-screen-effect/id6758536367) - Real-time screen zoom, cursor highlight, drawing, and text memo for presentations and recordings.
 
 ## Video
