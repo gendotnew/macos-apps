@@ -83,6 +83,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Platypus](https://github.com/sveinbjornt/Platypus) - Create Mac applications from command line scripts.
 - [SnippetsLab](https://www.renfei.org/snippets-lab/)
 - [Sublime Merge](https://www.sublimemerge.com/) - Git client from makers of Sublime Text.
+- [Tesseract](https://tesseract.dev/) - Runs 14 AI coding agent frameworks, including Claude Code, Codex and Gemini CLI, in one window, with a code editor, terminal and live preview.
 - [Tower](https://www.git-tower.com/mac/)
 - [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - Powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.
 
