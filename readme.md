@@ -158,6 +158,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Utilities
 
+- [AbcTab](https://solocraft.app/abctab) - Native macOS ⌘-Tab app and window switcher with first-letter jump, terminal tab lists, and Ping-Pong mode, without requiring Screen Recording permission.
 - [Alfred](https://www.alfredapp.com/) - Customizable launcher with [many powerful workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-).
 - [Bartender](https://www.macbartender.com/) - Organize menu bar apps.
 - [Bearded spice](https://github.com/beardedspice/beardedspice)
