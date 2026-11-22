@@ -158,6 +158,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 ## Utilities
 
+- [airplay-screen](https://github.com/drumandbytes/airplay-screen) - Start and stop AirPlay screen mirroring from the command line.
 - [Alfred](https://www.alfredapp.com/) - Customizable launcher with [many powerful workflows](https://github.com/learn-anything/alfred-workflows#amazing-alfred-workflows-).
 - [Bartender](https://www.macbartender.com/) - Organize menu bar apps.
 - [Bearded spice](https://github.com/beardedspice/beardedspice)
