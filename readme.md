@@ -167,6 +167,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Capty](https://capty.app/) - Lightning-fast screen recordings with a native macOS experience.
 - [CleanShot X](https://cleanshot.com/) - Ultimate screen recording app.
 - [Clean my mac 3](https://macpaw.com/cleanmymac)
+- [Cleanzo](https://cleanzo.echovic.com/en/) - Open-source cleaner for macOS and Windows that shows system and disk usage before removing anything.
 - [ClearDisk](https://github.com/bysiber/cleardisk) - macOS menu bar utility that monitors 44+ developer cache paths (Xcode, Docker, npm, pip, Cargo, Homebrew, etc.) and helps reclaim disk space.
 - [Daisy disk](https://daisydiskapp.com/)
 - [Dropzone 4](https://aptonic.com/)
