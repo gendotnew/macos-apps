@@ -205,6 +205,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [adoc Studio](https://www.adoc-studio.app) - Technical Writing in AsciiDoc.
 - [Day One](http://dayoneapp.com/)
 - [FSNotes](https://github.com/glushchenko/fsnotes) - Notes manager.
+- [Liubai](https://liubai.echovic.com/en/) - Mac-first Markdown editor that keeps files as plain .md.
 - [MacDown](https://macdown.uranusjr.com/)
 - [Marked 2](http://marked2app.com/)
 - [Texpad](https://www.texpad.com/)
