@@ -186,6 +186,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Name mangler](https://manytricks.com/namemangler/)
 - [Pacifist](http://www.charlessoft.com/) - Opens Mac OS X .pkg package files, .dmg disk images, and .zip, .tar, .tar.gz, .tar.bz2, and .xar archives and allows you to extract individual files and folders out of them.
 - [Popclip](https://pilotmoon.com/popclip/)
+- [QuickRight](https://apps.apple.com/us/app/quickright/id6763963598?mt=12) - Adds a right-click menu to Finder for creating files from templates, copying paths, opening a terminal in the current folder and converting images.
 - [Spotifree](http://spotifree.gordinskiy.com/)
 - [Swish](https://highlyopinionated.co/swish/) - A gesture layer and window manager for the trackpad power user.
 - [Typinator](http://www.ergonis.com/products/typinator/) - Text expansions.
