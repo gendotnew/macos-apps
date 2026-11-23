@@ -162,6 +162,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Bartender](https://www.macbartender.com/) - Organize menu bar apps.
 - [Bearded spice](https://github.com/beardedspice/beardedspice)
 - [Bitbar](https://github.com/matryer/bitbar)
+- [Breathing Room](https://breathing-room.chatic.ai/) - Open-source storage and maintenance app with reviewable cleanup plans.
 - [Brew](https://brew.sh)
 - [Chronosync](https://www.econtechnologies.com/chronosync/overview.html)
 - [Capty](https://capty.app/) - Lightning-fast screen recordings with a native macOS experience.
