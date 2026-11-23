@@ -80,6 +80,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Dumper](https://bananafishsoftware.com/products/dumper/) - Extract, browse and inspect the class declarations from any Mach-O file containing Objective-C runtime information.
 - [OpenPaw](https://github.com/daxaur/openpaw) - Personal assistant skills for Claude Code. Focus mode, task dashboard, smart home control, 39 skills. `npx pawmode`
 - [Paw](https://paw.cloud/)
+- [Pilion](https://pilion.echovic.com/en/) - Desktop browser that lets coding agents drive your signed-in tabs over MCP.
 - [Platypus](https://github.com/sveinbjornt/Platypus) - Create Mac applications from command line scripts.
 - [SnippetsLab](https://www.renfei.org/snippets-lab/)
 - [Sublime Merge](https://www.sublimemerge.com/) - Git client from makers of Sublime Text.
