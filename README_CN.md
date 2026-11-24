@@ -58,6 +58,8 @@
 
 - [Mole](https://github.com/tw93/Mole) - 开源命令行工具，深度清理缓存、连同残留一起卸载应用、分析磁盘占用并查看系统状态
 
+- [NotchDeck](https://github.com/systemAdmin-ai/NotchDeck) ![native] - MacBook 刘海控制中心：系统指标、Now Playing、快速笔记、录屏与任务配置。MIT 许可，Apple Silicon 与 macOS 14+
+
 
 
 #### *如果你发现此处的项目或链接已不再维护或不太合适，欢迎提交 Pull Request 来改进这份文档。谢谢！*

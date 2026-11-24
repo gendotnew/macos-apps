@@ -58,6 +58,8 @@ Awesome macOS open source Apps
 
 - [Mole](https://github.com/tw93/Mole) - Open-source CLI to deep clean caches, uninstall apps with their leftovers, analyze disk usage and monitor your Mac
 
+- [NotchDeck](https://github.com/systemAdmin-ai/NotchDeck) ![native] - Control center for the MacBook notch: system metrics, now playing, quick notes, screen recording and task profiles. MIT, Apple Silicon and macOS 14+
+
 
 
 #### *If you see a project or link here that is no longer maintained or is not a good fit, please submit a pull request to improve this document. Thank you!*
