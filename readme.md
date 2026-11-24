@@ -29,7 +29,9 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
+- [AudioSmith](https://actnow.dev/audiosmith) - Text to speech, voices, stories, audiobooks, dubbing and transcripts, all made on your Mac. Free and open source ([GitHub](https://github.com/hehehai/AudioSmith)).
 - [OpenQuack](https://github.com/larryxiao/openquack) - Privacy-first local voice dictation menu bar app powered by WhisperKit.
+- [VoxtMini](https://actnow.dev/voxtmini) - Transcribe, translate and rewrite in any app, with models that run on your Mac unless you pick a service. Free and open source ([GitHub](https://github.com/hehehai/VoxtMini)).
 
 ## Code
 
