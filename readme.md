@@ -65,6 +65,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Iconizer](http://raphaelhanneken.github.io/iconizer/) - Create Xcode asset catalogs on the fly.
 - [Image2icon](http://www.img2icnsapp.com/) - Create and personalize icons from your pictures.
 - [Patina](http://www.patinaapp.com/)
+- [Pik](https://actnow.dev/pik) - Menu bar colour picker that keeps every pick in palettes and copies it in 28 code formats, from CSS to SwiftUI.
 - [Pixelmator](http://www.pixelmator.com/mac/)
 - [Sip](http://sipapp.io/)
 - [Sketch](https://www.sketchapp.com/)
