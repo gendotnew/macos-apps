@@ -41,6 +41,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Airmail](http://airmailapp.com/)
 - [Gitter](https://gitter.im/apps)
 - [Slack](https://slack.com/)
+- [Suzume Mail](https://www.yuzool.com/apps/suzume/) - Native IMAP email client that shows mail as chat-style threads and keeps it on your Mac.
 - [Telegram](https://telegram.org/)
 - [Textual](https://www.codeux.com/textual/)
 - [Tweetbot](https://tapbots.com/tweetbot/mac/)
@@ -125,6 +126,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [2Do](https://www.2doapp.com/) - Powerful & flexible GTD task manager.
 - [Air Pasteboard](https://apps.apple.com/us/app/air-pasteboard/id1327733671?mt=12) - Quick pasteboard and file sharing.
 - [BetterTouchTool](https://www.boastr.net/)
+- [Cadence](https://www.yuzool.com/apps/cadence/) - Weekly planner that lays the week out day by day, with a Friday review and iCloud sync to iPhone.
 - [Fantastical](https://flexibits.com/fantastical)
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) - Automation engine.
 - [Merlin Project](https://www.projectwizards.net/en/merlin-project) – Project Management on macOS & iOS.
