@@ -131,6 +131,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [MindNode](https://mindnode.com/) - Create interactive mind maps.
 - [Next meeting](https://itunes.apple.com/us/app/next-meeting-quickly-see-it-in-your-menu-bar/id1017470484?mt=12)
 - [PDF Archiver](https://github.com/JulianKahnert/PDF-Archiver) - Tag and archive documents.
+- [Soya](https://blendpixel.com/products/soya) - On-device meeting transcription with no bot in the call, turning rough notes into a write-up with decisions and action items.
 - [Timing 2](https://betalist.com/startups/timing-2)
 - [TogglDesktop](https://support.toggl.com/toggl-on-my-desktop/)
 - [Trello](https://itunes.apple.com/app/trello/id1278508951?ls=1&mt=12)
@@ -197,6 +198,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 
 - [IINA](https://github.com/lhc70000/iina)
 - [MPV](https://mpv.io/)
+- [Retina](https://blendpixel.com/products/retina) - Screen recorder with automatic cinematic zoom, smooth cursor motion, and 4K export.
 - [ScreenFlow](https://www.telestream.net/screenflow/overview.htm)
 - [Claquette](https://www.peakstep.com/claquette/) - Easy-to-use video utility.
 
