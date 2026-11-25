@@ -30,6 +30,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Ardour](https://ardour.org) - Record, edit, and mix audio in a production-level environment.
 - [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any application's audio, including VoIP calls from Skype, web streams from Safari, and much more.
 - [OpenQuack](https://github.com/larryxiao/openquack) - Privacy-first local voice dictation menu bar app powered by WhisperKit.
+- [shepetal](https://shepetal.app/?ref=macos-apps) - Dictation and meeting notes for the Mac. Speech recognition runs on the Mac and works offline.
 
 ## Code
 
