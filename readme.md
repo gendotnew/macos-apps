@@ -208,6 +208,7 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [MacDown](https://macdown.uranusjr.com/)
 - [Marked 2](http://marked2app.com/)
 - [Texpad](https://www.texpad.com/)
+- [TextFix](https://textfix.jonathanhind.com) - Native menu bar app that fixes spelling, grammar, and messy typing in place across any Mac app using your own Claude, Gemini, or OpenAI API key.
 - [Ulysses](https://ulyssesapp.com/) - Writing app.
 
 ## Preference Panes
